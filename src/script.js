@@ -55,5 +55,4 @@ searchForm.addEventListener("click", search);
 
 let currentLocationButton = document.querySelector("#currentLocationButton");
 currentLocationButton.addEventListener("click", getCurrentLocation);
-
-searchCity(Paris);
+            let name = prompt("What is your name?");
